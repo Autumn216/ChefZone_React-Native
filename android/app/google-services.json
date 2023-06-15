@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "61222512413",
+    "firebase_url": "https://chef-zone.firebaseio.com",
+    "project_id": "chef-zone",
+    "storage_bucket": "chef-zone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61222512413:android:24116fe45d6101dc4523f4",
+        "android_client_info": {
+          "package_name": "com.chefzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61222512413-9unlb93rg929opdv6k8516e1iimpp26c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chefzone",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "61222512413-gsjmapggb0igtn18ppraab0nmqh9qt3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chefzone",
+            "certificate_hash": "e50c70f7569d6c5fe0c1704dd889e143f1add389"
+          }
+        },
+        {
+          "client_id": "61222512413-1inigm0ps76lfo0k2ccpdsikbp2e5j4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chefzone",
+            "certificate_hash": "903052f63a5b711b128c410841697e4c387f1b95"
+          }
+        },
+        {
+          "client_id": "61222512413-gerljhq8a8v988hci5usdtk3ci8pmm4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbM-FYEocvbQNzvzAoatGxZ0xrjuEOxhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61222512413-gerljhq8a8v988hci5usdtk3ci8pmm4u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61222512413-amrt194vdmoivc4vjqk3q0d2ip4ns2u2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chefzone.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
